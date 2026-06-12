@@ -17,6 +17,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "2.6.4",
+          "buildVersion": "33",
+          "date": "2026-06-12",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/RazvanRex/noop/releases/download/v2.6.4/NOOP-v2.6.4-ios.ipa",
+          "size": 5557504,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "2.6.2",
           "buildVersion": "2",
           "date": "2026-06-12",
