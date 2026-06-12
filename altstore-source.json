@@ -12,7 +12,7 @@
       "developerName": "NoopApp",
       "subtitle": "Offline WHOOP companion. No cloud, no account.",
       "localizedDescription": "NOOP pairs directly with your WHOOP 4 or 5 strap over Bluetooth and computes recovery, strain, HRV and sleep entirely on your iPhone — no WHOOP account, no cloud, no subscription.\n\nFeatures:\n• Live heart rate and R-R interval stream from the strap\n• On-device recovery, strain and sleep scoring\n• HRV haptic breathing biofeedback (Breathe screen)\n• Silent haptic HIIT timer (Intervals screen)\n• Import WHOOP CSV export or Apple Health export\n• Full history: sleep hypnograms, workout detail, trends, correlations\n• Optional AI Coach (bring your own API key — the only feature that ever uses the network)\n• Everything else is 100% offline\n\nNOOP is an independent, unofficial, non-commercial interoperability project. Not affiliated with WHOOP, Inc. Not a medical device.",
-      "iconURL": "https://opengraph.githubassets.com/767d9a12bffa9a9e6d1604e468cef63956494dc36a271cd7d99160a1c99eff6b/NoopApp/noop",
+      "iconURL": "https://github.com/NoopApp/noop/blob/main/Strand/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
       "tintColor": "44E2B0",
       "category": "utilities",
       "versions": [
@@ -25,42 +25,6 @@
           "size": 5557504,
           "minOSVersion": "16.0"
         },
-        {
-          "version": "2.6.2",
-          "buildVersion": "2",
-          "date": "2026-06-12",
-          "localizedDescription": "Fixed (iPhone): action buttons that wrapped mid-word on narrow screens — the Live screen's Re-scan / Buzz strap / Disconnect row and the Backup Export / Import / Export CSV row now keep each label on one line.",
-          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v2.6.2/NOOP-v2.6.2-ios.ipa",
-          "size": 0,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.3.2",
-          "buildVersion": "2",
-          "date": "2026-06-12",
-          "localizedDescription": "Patch release. Skin temperature unblocked on iPhone — strap skin temp was read on the wrong scale, making every real night look impossibly cold. Now matches Android and macOS. Export and layout fixes.",
-          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v2.3.2/NOOP-v2.3.2-ios.ipa",
-          "size": 0,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.3.1",
-          "buildVersion": "1",
-          "date": "2026-06-12",
-          "localizedDescription": "Skin temperature unblocked on Mac and iOS. Export fixes.",
-          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v2.3.1/NOOP-v2.3.1-ios.ipa",
-          "size": 0,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "2.2.0",
-          "buildVersion": "1",
-          "date": "2026-06-12",
-          "localizedDescription": "Browse past nights: Sleep screen now has back/forward arrows to step through every recorded night. Smarter AI Coach sees on-device recovery/strain/sleep. Workout times and battery shown.",
-          "downloadURL": "https://github.com/NoopApp/noop/releases/download/v2.2.0/NOOP-v2.2.0-ios.ipa",
-          "size": 0,
-          "minOSVersion": "16.0"
-        }
       ],
       "appPermissions": {
         "entitlements": [
